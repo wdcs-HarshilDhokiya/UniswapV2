@@ -1,0 +1,15 @@
+build/
+node_modules/
+.github
+buildV1
+test
+.gitattributes
+LICENSE
+package.json
+README.md
+tsconfig.json
+yarn.lock
+.mocharc.json
+.prettierrc
+.waffle.json
+.yarnrc
